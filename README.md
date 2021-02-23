@@ -35,4 +35,4 @@ cd ./docs
 4) Любые непонятные бонусные фигуры
 5) Можно грабить корованы (любые экспериментальные режимы, типа изменения направления гравитации или двунаправленного тетриса)
 
-Подсмотреть красивый дизанй можно тут: https://dribbble.com/shots/14902579-Tetris-Mobile-App-Design-Exploration/attachments/6616066?mode=media
+Подсмотреть красивый дизайн можно тут: https://dribbble.com/shots/14902579-Tetris-Mobile-App-Design-Exploration/attachments/6616066?mode=media
