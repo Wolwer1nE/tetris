@@ -7,4 +7,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./Piece":"iBgk","./GameField":"aVaI"}],"H99C":[function(require,module,exports) {
 "use strict";var n,e,r=require("./tetris"),t=document.getElementById("cnvs"),i=15;function a(c){e=window.requestAnimationFrame(a);var m=0;if(c>n+i){var u=c-n;m=Math.floor(u/i)}for(var d=0;d<m;d++)n+=i,(0,r.update)(n,o);(0,r.draw)(t,c)}function o(){window.cancelAnimationFrame(e)}n=performance.now(),(0,r.init)(t),a();
 },{"./tetris":"cnUW"}]},{},["H99C"], null)
-//# sourceMappingURL=/src.62510e9b.js.map
+//# sourceMappingURL=src.62510e9b.js.map

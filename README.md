@@ -11,7 +11,7 @@ npm start
 ```
 cd tetris
 npm run build
-cd ./dist
+cd ./docs
 ```
 
 # Задание
